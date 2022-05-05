@@ -1,3 +1,4 @@
+![Imgur Image](https://i.imgur.com/TNrwGkx.png)
 # Hello! :raised_hands:
 * Aspiring full-stack web developer
 * Currently attending the University of Rochester 
