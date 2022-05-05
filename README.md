@@ -1,6 +1,6 @@
 # Hello! :raised_hands:
-* I'm an aspiring full-stack web developer
-* Currently attending the University of Rochester 
+* I am an aspiring full-stack web developer
+* I am currently attending the University of Rochester 
 * I love listening to Mitski, graphic design, and playing video gmames
 
 # Languages & Tools
