@@ -1,7 +1,7 @@
 # Hello! :raised_hands:
-* I am an aspiring full-stack web developer
-* I am currently attending the University of Rochester 
-* I love listening to Mitski, graphic design, and playing video gmames
+* Aspiring full-stack web developer
+* Currently attending the University of Rochester 
+* Love listening to Mitski, graphic design, and playing video gmames
 
 #### Spotify Playing
 [<img src="https://novatorem-mu-ivory.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/itskaylaagain)
