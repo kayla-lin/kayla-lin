@@ -3,7 +3,7 @@
 * I am currently attending the University of Rochester 
 * I love listening to Mitski, graphic design, and playing video gmames
 
-### Spotify Playing
+#### Spotify Playing
 [<img src="https://novatorem-mu-ivory.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/itskaylaagain)
 
 # Languages & Tools
