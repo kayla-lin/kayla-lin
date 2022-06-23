@@ -1,6 +1,6 @@
 ![Imgur Image](https://i.imgur.com/uHpoZ4C.png)
 # Hello! :raised_hands:
-* Full-stack web engineer
+* Aspiring full-stack web engineer
 * Currently attending the University of Rochester 
 * Love listening to Mitski, graphic designing, and playing video games
 
