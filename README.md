@@ -6,8 +6,8 @@
 
 # What I'm making
 
-* ![Yenny - Simple Yen converter app](https://www.yenny.app/)
-* ![Capybara Hunt - Automated directory of listing capybara locations](https://capybarahunt.com/)
+* [Yenny - Simple Yen converter app](https://www.yenny.app/)
+* [Capybara Hunt - Automated directory of listing capybara locations](https://capybarahunt.com/)
 
 #### Spotify Playing
 [<img src="https://novatorem-mu-ivory.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/itskaylaagain)
