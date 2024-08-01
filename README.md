@@ -4,6 +4,11 @@
 * Currently attending the University of Rochester 
 * Love listening to Mitski, graphic designing, and playing video games
 
+# What I'm making
+
+* ![Yenny - Simple Yen converter app](https://www.yenny.app/)
+* ![Capybara Hunt - Automated directory of listing capybara locations](https://capybarahunt.com/)
+
 #### Spotify Playing
 [<img src="https://novatorem-mu-ivory.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/itskaylaagain)
 
@@ -14,5 +19,6 @@
 
 # Reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-s-lin/)
+
 
 
